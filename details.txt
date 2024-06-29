@@ -1,0 +1,7 @@
+db_config = {
+    'dbname': 'nexa-crm-prod',
+    'user': 'avnadmin',
+    'password': 'Digital!23',
+    'host': 'nagarjuna-crm-dbs.postgres.database.azure.com',
+    'port': '5432'  # Default PostgreSQL port is 5432
+}
